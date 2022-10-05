@@ -1,5 +1,6 @@
 # SJ-BayesianAnalysis
-Answers on selected exercises from Simon Jackman - Bayesian Analysis for the Social Sciences (2009)
+
+This repository includes some R codes and a PDF file that contains answers on selected exercises from Simon Jackman - Bayesian Analysis for the Social Sciences (2009).
 
 # Chapter 1: Foundations of Bayesian Inference
  * 1.2 - Drug testing problem
